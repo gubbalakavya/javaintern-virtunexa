@@ -14,3 +14,14 @@ Technologies:
 •	Swing: For the graphical user interface.
 •	SQLite: For storing calculation results.
 •	JDBC: For database interaction.
+
+
+
+
+WalkThrough for the FlashCard application :
+
+there are three class files for the application FlashCardApp,FlashCard,FlashCardPlayer to create,save and review the flashcards for the study processes 
+1. execute the FlashCard java file
+2. to create the own flash cards run FlashCardApp java file enter the questions and answers and save the file in desire location on the computer
+3. to review the flash card run FlashCardPlayer java file then load the create flash card file you can use buttons appropriatly and review the quiz
+4. end of the process 
